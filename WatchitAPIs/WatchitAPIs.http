@@ -1,0 +1,6 @@
+@WatchitAPIs_HostAddress = http://localhost:5106
+
+GET {{WatchitAPIs_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
